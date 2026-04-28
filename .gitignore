@@ -1,0 +1,45 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OS generated files
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+
+# IDE / editor folders
+.idea/
+.vscode/
+nbproject/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# Build / package artifacts
+dist/
+build/
+release/
+*.zip
+*.tar.gz
+*.rar
+
+# Composer
+composer.phar
+composer.lock
+
+# WordPress
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
